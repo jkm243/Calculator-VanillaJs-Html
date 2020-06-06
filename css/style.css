@@ -1,0 +1,66 @@
+*{margin:0; padding:0;}
+
+body{
+    font-family: "Raleway Light", Verdana, Arial, Helvetica, sans-serif;
+    background-image: url("../img/bg.jpg")
+}
+.application{
+    border: 2px solid #6badd3;
+    border-radius: 0px 50px 0px 50px;
+    padding: 2% 0%;
+    margin: 12% 25% 0% 25%;
+    background-color: #1b1b1b;
+    display: block;
+    font-weight: bold;
+}
+#ecran{
+    width: 80%;
+    height: 60%;
+    border: 2px solid #414040;
+    margin: 2% 5%;
+    padding: 5%;
+    background-color: #6badd3;
+}
+/* rang1 */
+#rang1, #rang2, #rang3, #rang4{
+    text-align: center;
+}
+ul{
+    display: inline-block;
+    list-style-type: none;
+}
+ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+button{
+    display: inline-block;
+    padding:0px 5px;
+    border: 1px solid rgb(56, 56, 56);
+    border-radius: 3px;
+    margin: 5px;
+    background-color:#e7e5e5;
+    color: #414040;
+    overflow: hidden;
+}
+button:focus{
+    outline: none;
+}
+.btn{
+    text-decoration: none;
+    color: #313131;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: 1px solid #313131;
+	background-color: rgba(255, 255, 255, 0.24);
+	border-spacing: 0px;
+	border-radius: 10px;
+    padding: 7px;
+    width: 100%;
+}
+.btn:hover{
+    background-color: #6badd3;
+    border: 1px solid #ffffff;
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.11);
+}
+/* rang2 */
