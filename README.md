@@ -10,7 +10,7 @@ A cool and simple calculator made for browsers
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/jkm243/Calculator-VanillaJs-Html/blob/master/img/Screenshot%202022-02-25%20015604.png)
 
 
 ## Tech Stack
